@@ -1,0 +1,17 @@
+soup Quantity is :3
+bread Quantity is :2
+Expected total cost=3.15
+D------------------------------------------------------------------
+apples Quantity is :6
+milk Quantity is :1
+Expected total cost=1.90
+D------------------------------------------------------------------
+apples Quantity is :6
+milk Quantity is :1
+Expected total cost=1.84
+D------------------------------------------------------------------
+apples Quantity is :3
+soup Quantity is :2
+bread Quantity is :1
+Expected total cost=1.97
+D------------------------------------------------------------------
